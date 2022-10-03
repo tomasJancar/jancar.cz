@@ -12,5 +12,5 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.KEY_ED25519 }}
-        port: ${{ secrets.PORT }}
+        port: 22
         script: sh /var/www/jancar.cz/update.sh
