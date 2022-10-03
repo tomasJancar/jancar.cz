@@ -1,7 +1,5 @@
 <template>
-  <div>
-    Jancar.cz
-  </div>
+  <div>Jancar.cz</div>
 </template>
 
 <script lang="ts">
